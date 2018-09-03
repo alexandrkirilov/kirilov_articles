@@ -1,5 +1,7 @@
 # Prerequisites for Informational Etudes
 
+![](https://raw.githubusercontent.com/alexandrkirilov/kirilov_articles/master/infromational_etudes/prerequisites/illustrations/title.png)
+
 The Informational Etude (IE) is the task for anyone who is going to be practised in describing real world issues for the case of modelling applications for future developing on any kind of programming language.
 
 The definition is obvious, inherited from music and painting.
