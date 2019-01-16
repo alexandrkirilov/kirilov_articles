@@ -77,7 +77,7 @@ PS ...
 
 Диалог описанный ниже наиболее ярко иллюстрирует принцип на основе которого могут разрабатываться устройства обработки и хранения информации.
 
-A: Why the information is information?
-B: Because the information - is the energy-in-formation.
-A: But why are we mentioning only about the "in formation" only?
-B: Because energy is energy, but the formation creating the forms and fixing it by formulas for being able to repeat action or making copy within another portion of energy ...
+* A: Why the information is information?
+* B: Because the information - is the energy-in-formation.
+* A: But why are we mentioning only about the "in formation" only?
+* B: Because energy is energy, but the formation creating the forms and fixing it by formulas for being able to repeat action or making copy within another portion of energy ...
