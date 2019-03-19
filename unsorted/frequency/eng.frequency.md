@@ -26,3 +26,7 @@ If the user of information capable to get the state of the source only one time 
 This picture is demonstrating how one information might be transformed to another only because of differences in source frequency and user frequency. The source is sending: "dot-dash-dot-dash" but the user is getting only "dash".
 
 For the case of different sources to one user - "the frequency" might be used like metronome for musicians or conductor for an orchestra.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

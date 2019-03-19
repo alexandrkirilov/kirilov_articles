@@ -17,3 +17,7 @@ Look on few examples:
 Some informational sources might be a consumers too. The HDD the first example. The HDD is the source at time of reading and at time of writing it is the consumer. If there switched electricity off the HDD became the storage.
 
 Any kind of passive informational source or any kind of active source within switched energy spreading out off - became the informational storage. The paper within drawing or text (the text is drawing too, in a special manner only) without light energy is only storage and became active at time of focusing on it the light energy. The HDD without electrical energy is only storage too, if you need to get any information from this source at first you have to supply it by electricity. Any person or any individual towards to you the informational storage while you not asking him or any other events do not provoke himself to spend his own energy for delivering any kind of information from his own storages to you or any other by waving the airs molecules (voice based formats: speech or singing), by changing the light by manipulators spreading pigments (painting or drawing) or any other. In some cases the informational storage might be totally dependable on energy and if energy flow blocked or switched off the information going to be deleted totally.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

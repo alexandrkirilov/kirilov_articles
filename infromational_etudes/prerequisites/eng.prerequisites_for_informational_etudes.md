@@ -8,3 +8,7 @@ The Informational Etude (IE) is the task for anyone who is going to be practised
 - From painting: an art, usually drawn with a view to research for the purpose of something bigger.
 
 In both explanation: something small and rapid that is improving ability. Why etude is informational? Because of improving ability to recognise the information and the data objects and relations to each other within informational exchange. Started to be used at time of lecturing "Theory of Information" like additional exercise for making students able to see real world issues on abstracted level. For most cases is extremely difficult to explain to them what is "in-general" and what is "specific" and what is "realisation". Additionally to motivate the students based on famous persons experience.
+
+Follow author updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

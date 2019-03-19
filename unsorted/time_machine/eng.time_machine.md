@@ -41,3 +41,7 @@ After all that written, couple of questions:
 
 - Who is building machines? The human? Yes.
 - Is there ability for programming anything that hasn't been analysed, reasoned by the human? No, it's not possible. Might be better to start things more about human's abilities then about "time machine"?
+
+Follow my updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)

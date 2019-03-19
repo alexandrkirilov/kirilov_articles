@@ -81,3 +81,8 @@ PS ...
 * B: Because the information - is the energy-in-formation.
 * A: But why are we mentioning only about the "in formation" only?
 * B: Because energy is energy, but the formation creating the forms and fixing it by formulas for being able to repeat action or making copy within another portion of energy ...
+
+Следите за обновлениями автора в [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/).
+
+Следите за AR|BO|RE|US обновлениями в [**Twitter**](https://twitter.com/ArboreusSystems) в [**Linkedin**](www.linkedin.com/company/arboreus-systems/).
+

@@ -34,3 +34,7 @@ A: Why the information is information?
 B: Because the information - is energy-in-formation.
 A: But why are we mentioning only about the "in formation" only?
 B: Because energy is energy, but the forms is creating by using formulas that is describing what and how should be "in formation". In other direction, creating the forms and fixing it by formulas for being able to repeat action or making copy within another portion of energy ...
+
+Follow my updates on [**Linkedin**](https://www.linkedin.com/in/alexandr-kirilov-3365b992/)
+
+Follow AR|BO|RE|US updates on [**Twitter**](https://twitter.com/ArboreusSystems) and [**Linkedin**](www.linkedin.com/company/arboreus-systems/)
