@@ -1,6 +1,6 @@
 # Understanding term "information".
 
-On of the most glaring examples of physical meaning of the term "information" - is the [Morse Code](https://en.wikipedia.org/wiki/Morse_code). This is the combination of short and long signals arranged in certain order. Where every letter or number corresponds to a specific form of unique combination of short and long signals. For its parts, every signal should have own form and be following special rules:
+One of the most glaring examples of physical meaning of the term "information" - is the [Morse Code](https://en.wikipedia.org/wiki/Morse_code). This is the combination of short and long signals arranged in certain order. Where every letter or number corresponds to a specific form of unique combination of short and long signals. For its parts, every signal should have own form and be following special rules:
 
 * The length of a dot is one unit
 * A dash is the three units
@@ -22,7 +22,7 @@ But once:
 * any object will be blocking the luminescence (any kind of energy that is requiring object to be moving and be blocking the luminescence) - formation is appearing because of other energy
 * in case of [transistor](https://en.wikipedia.org/wiki/Transistor) [electromagnetic energy](https://en.wikipedia.org/wiki/Energy) that is powering on one  of  transistor contacts that is switching off/on the energy flow between two others and formation is appearing because of other energy
 
-In case of you have first solid continuous energy flow, then you need second energy flow that will be periodically blocking first one and it will be process of creating formation that will be process of grating energy-in-formation. The human mostly care about formation because of importance but not about energy itself. Kind of energy might be different. The second energy source is the source of information.
+In case of you have first solid continuous energy flow, then you need second energy flow that will be periodically blocking first one and it will be process of creating formation that will be process of creating energy-in-formation. The human mostly care about formation because of importance but not about energy itself. Kind of energy might be different. The second energy source is the source of information.
 
 In case of absence of solid continuous energy flow, in the void you can be using energy source like source of information by switching off/on.
 
